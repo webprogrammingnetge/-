@@ -1,0 +1,8 @@
+text/*
+scripts/*
+*.db
+*.faiss
+/text
+/scripts
+/__pycache__
+*.pyc
